@@ -1,6 +1,6 @@
 # CCL Bootcamp
  
-My journey through a 19-week coding bootcamp, including classwork, homework, projects, and everything in between.
+My journey through Color-Coded Labs, a 19-week coding bootcamp, including classwork, homework, projects, and everything in between.
  
 ## How It's Made
  
@@ -16,7 +16,7 @@ I use this repo to stay organized, track how far I've come, and reflect on conce
 - **Homework**: assigned exercises completed outside of class
 - **Projects**: larger builds that put multiple concepts together
 - **Notes & Resources**: anything worth saving from the learning process
-- 
+
 ## Lessons Learned
  
 - Writing code daily, even imperfect code, builds intuition faster than anything else
