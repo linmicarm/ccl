@@ -1,6 +1,6 @@
 # CCL Bootcamp
  
-My journey through Color-Coded Labs, a 19-week coding bootcamp, including classwork, homework, projects, and everything in between.
+My journey through Color Coded Labs, a 19-week coding bootcamp, including classwork, homework, projects, and everything in between.
  
 ## How It's Made
  
